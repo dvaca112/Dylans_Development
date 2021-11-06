@@ -986,6 +986,8 @@ img {
     justify-self: center;
     align-self: center;
     margin-top: var(--mb-0-25);
+    filter: contrast(100%);
+    filter: brightness(110%);
 }
 
 .logo_p {
